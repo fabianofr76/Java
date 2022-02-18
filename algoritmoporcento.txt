@@ -1,0 +1,17 @@
+algoritmo porcentagem
+
+var
+
+porcentagem,N1,N2:real
+
+Porcentagem = (N1 x 100) / N2
+
+escreva o numero inteiro para saber a porcentagem:
+escreva a porcentagem requerida:
+
+leia N1,N2;
+
+escreva "porcentagem"
+
+
+fim
